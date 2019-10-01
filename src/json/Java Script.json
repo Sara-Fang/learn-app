@@ -1,0 +1,1 @@
+[{"answer": "java Script", "question": "what-is-JS"}, {"answer": "yes", "question": "Does every JS Object has prototype?"}, {"answer": "1.obj.assign()      2.B.prototype = new A()", "question": "How to inherit class in JS?(give 4 ways)"}]

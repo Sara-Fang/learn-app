@@ -1,0 +1,14 @@
+[
+  { "name": "Java Script", "detail": "input java script notes here" },
+  { "name": "React", "detail": "today I learned react" },
+  { "name": "Redux", "detail": "Redux is not easy" },
+  {
+    "name": "Git",
+    "detail": "I like Github ,but github doesn't like me"
+  },
+  {
+    "name": "CSS",
+    "detail": "Let's start to learn css"
+  },
+  { "name": "HTML", "detail": "HTML....." }
+]
